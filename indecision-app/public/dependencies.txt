@@ -1,0 +1,6 @@
+Live Server (npm install -g live-server)
+Babel-Cli (npm install -g babel-cli@6.24.1)
+
+Babel Preset React (npm install --save-dev babel-preset-react)
+Babel Preset Env (npm install --save-dev babel-preset-env)
+Babel Preset Flow (npm install --save-dev babel/preset-flow)
